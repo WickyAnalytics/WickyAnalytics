@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="280"  alt="Coding" width="400" src="https://i.ibb.co/2y25tp1/Black-Modern-Graphic-Designer-Linked-In-Banner.png">
+<img align="center" width="1200" height="220"  alt="Coding" src="https://i.ibb.co/2y25tp1/Black-Modern-Graphic-Designer-Linked-In-Banner.png">
 <h1 align="center">Hi 👋, I'm George ayad</h1>
 <h3 align="center">Fresh gratuate student from FUE</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
