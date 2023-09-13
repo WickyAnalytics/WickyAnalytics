@@ -1,4 +1,4 @@
-
+![alt text](https://drive.google.com/file/d/1jwLp0WX6y78TGQ_8xTJy9oYvW1ioOn9N/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm George ayad</h1>
 <h3 align="center">Fresh gratuate student from FUE</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
