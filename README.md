@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeayad0577&label=Profile%20views&color=0e75b6&style=flat" alt="georgeayad0577" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack**
+- 🌱 I’m currently learning **TypeScript and react framework**
 
 - 🤝 I’m looking for help with **Internships**
 
