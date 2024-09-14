@@ -6,12 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=georgeayad0577&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-🌟 **Current Focus:** I am deeply immersed in data analysis and visualization, building a robust foundation as I transition towards data science.<br>
-🛠️ **Skills:** Proficient in Excel, Google Sheets, and SQL. Currently expanding my expertise in Python and its libraries.<br>
-🌍 **Interests:** Enthusiastic about Machine Learning and Artificial Intelligence.<br>
-📊 **Current Projects:** Engaged in data cleaning, visualization, and applying statistical measures to convert raw data into actionable insights.<br>
-My goal is to leverage these data analysis skills as a launchpad for a data science career.
+ **🌟 Current Focus:** I am deeply immersed in data analysis and visualization, building a robust foundation as I transition towards data science.<br><br>
+ **🛠️ Skills:** Proficient in Excel, Google Sheets, and SQL. Currently expanding my expertise in Python and its libraries.<br><br>
+ **🌍 Interests:** Enthusiastic about Machine Learning and Artificial Intelligence.<br><br>
+ **📊 Current Projects:** Engaged in data cleaning, visualization, and applying statistical measures to convert raw data into actionable insights.<br><br>
+ **🎯 Goals:**<br> **Short-term Goal:** Complete my thesis and obtain my software engineering degree. Finish my training and secure a data analyst position to gain practical experience.<br> **Long-term Goal:** Establish a solid foundation in data analysis and advance towards a career in data science.
 
+<h3 align="right">Connect with Me</h3>
 
 <p align="right">
   <a href="https://www.linkedin.com/in/george-ayad-5ba84a194/" target="blank">
@@ -28,6 +29,16 @@ My goal is to leverage these data analysis skills as a launchpad for a data scie
   </a>
 </p>
 
+
+<h1 align="center">🌟 Highlights</h1>
+<p align="center">
+  <ul style="list-style-type: none; padding: 0;">
+    <li><strong>[Static Management for Freelancing Team]:</strong> Collaborated with an 8-member freelancing team to track weekly goals using Google Sheets. This project showcased the power of data manipulation and visualization in optimizing team performance and tracking progress effectively.</li><br>
+    <li><strong>[Gym Progress Tracker]:</strong> Designed a Google Sheets tool to monitor gym progress, including weight and calorie tracking. This tool estimates appropriate weight increments based on user goals (strength vs. endurance) by analyzing progress and setting targets.</li><br>
+    <li><strong>Exploration of Power BI:</strong> Delved into Power BI to create interactive dashboards from various data sources. This experience enhanced my skills in data visualization and dashboard design through continuous experimentation with demos.</li>
+  </ul>
+</p>
+
 ## 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
@@ -40,31 +51,14 @@ My goal is to leverage these data analysis skills as a launchpad for a data scie
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<h1 align="center">🌟 Highlights</h1>
-<p align="center">
-  <ul style="list-style-type: none; padding: 0;">
-    <li><strong>[Static Management for Freelancing Team](#):</strong> Collaborated with an 8-member freelancing team to track weekly goals using Google Sheets. This project showcased the power of data manipulation and visualization in optimizing team performance and tracking progress effectively.</li><br>
-    <li><strong>[Gym Progress Tracker](#):</strong> Designed a Google Sheets tool to monitor gym progress, including weight and calorie tracking. This tool estimates appropriate weight increments based on user goals (strength vs. endurance) by analyzing progress and setting targets.</li><br>
-    <li><strong>Exploration of Power BI:</strong> Delved into Power BI to create interactive dashboards from various data sources. This experience enhanced my skills in data visualization and dashboard design through continuous experimentation with demos.</li>
-  </ul>
-</p>
-
-### 📚 Currently Learning
-- **Python and its libraries:** Enhancing analytical skills through Python and its extensive libraries.
-
-### 🎯 Goals
-- **Short-term Goal:** Complete my thesis and obtain my software engineering degree. Finish my training and secure a data analyst position to gain practical experience.
-- **Long-term Goal:** Establish a solid foundation in data analysis and advance towards a career in data science.
-
-
-
 ## 📊 GitHub Stats & Top Contributed Repo
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=georgeayad0577&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeayad0577&theme=blue-green&hide_border=true" alt="Streak Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeayad0577&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=georgeayad0577&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400"/>
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=georgeayad0577&theme=blue-green&no-frame=true&no-bg=true&margin-w=4)
