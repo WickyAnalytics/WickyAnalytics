@@ -12,7 +12,7 @@
  **🛠️ Skills:** Proficient in Excel, Google Sheets, and SQL. Currently expanding my expertise in Python and its libraries.<br><br>
  **🌍 Interests:** Enthusiastic about Machine Learning and Artificial Intelligence.<br><br>
  **📊 Current Projects:** Engaged in data cleaning, visualization, and applying statistical measures to convert raw data into actionable insights.<br><br>
- **🎯 Goals:**<br> **Short-term Goal:** Complete my thesis and obtain my software engineering degree. Finish my training and secure a data analyst position to gain practical experience.<br> **Long-term Goal:** Establish a solid foundation in data analysis and advance towards a career in data science.
+ **🎯 Goals:**<br> **Short-term Goal:** Complete my thesis and obtain my software engineering degree. Finish my training and secure a data analyst position to gain practical experience.<br> **Long-term Goal:** Establish a solid foundation in data analysis and advance toward a career in data science.
 
 <h3 align="right">Connect with Me</h3>
 
@@ -41,17 +41,48 @@
   </ul>
 </p>
 
-## 💻 Tech Stack
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<h1 align="center">💻 Tech Stack</h1>
+
+<table>
+  <tr>
+    <td>
+      <h3>Visualization Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+      </p>
+    </td>
+    <td>
+      <h3>Programming Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Libraries & Frameworks</h3>
+      <p>
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+      </p>
+    </td>
+    <td>
+      <h3>Databases</h3>
+      <p>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats & Top Contributed Repo
 <div align="center">
