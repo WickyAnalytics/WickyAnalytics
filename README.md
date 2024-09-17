@@ -1,5 +1,7 @@
-<img align="center" width="1200" height="220" alt="Coding" src="https://github.com/user-attachments/assets/53facad6-b193-466e-b82d-f438c3250cb9">
+![Github gif](https://github.com/user-attachments/assets/f480b412-c424-416f-9d45-8f660dabb559)
+
 <h1 align="center">Hello 👋, I'm George Ayad</h1>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 <p align="left">
