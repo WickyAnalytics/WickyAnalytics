@@ -1,7 +1,7 @@
 ![Github gif](https://github.com/user-attachments/assets/f480b412-c424-416f-9d45-8f660dabb559)
 
-<h1 align="center">Hello 👋, I'm George Ayad</h1>
 
+<H1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm George</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 <p align="left">
@@ -15,7 +15,6 @@
  **🎯 Goals:**<br> **Short-term Goal:** Complete my thesis and obtain my software engineering degree. Finish my training and secure a data analyst position to gain practical experience.<br> **Long-term Goal:** Establish a solid foundation in data analysis and advance toward a career in data science.
 
 <h3 align="right">Connect with Me</h3>
-
 <p align="right">
   <a href="https://www.linkedin.com/in/george-ayad-5ba84a194/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -31,8 +30,9 @@
   </a>
 </p>
 
+![Github gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h1 align="center">🌟 Highlights</h1>
+<h1 align="left">🌟 Highlights</h1>
 <p align="center">
   <ul style="list-style-type: none; padding: 0;">
     <li><strong>[Static Management for Freelancing Team]:</strong> Collaborated with an 8-member freelancing team to track weekly goals using Google Sheets. This project showcased the power of data manipulation and visualization in optimizing team performance and tracking progress effectively.</li><br>
@@ -41,7 +41,7 @@
   </ul>
 </p>
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="left">💻 Tech Stack</h1>
 
 <table>
   <tr>
@@ -83,6 +83,7 @@
   </tr>
 </table>
 
+![Github gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📊 GitHub Stats & Top Contributed Repo
 <div align="center">
