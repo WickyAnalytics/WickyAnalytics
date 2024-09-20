@@ -1,18 +1,17 @@
 ![Github gif](https://github.com/user-attachments/assets/f480b412-c424-416f-9d45-8f660dabb559)
 
-
-<H1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm George</h1>
+<h1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm George</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=georgeayad0577&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=WickyAnalysis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
- **🌟 Current Focus:** I am deeply immersed in data analysis and visualization, building a robust foundation as I transition towards data science.<br><br>
- **🛠️ Skills:** Proficient in Excel, Google Sheets, and SQL. Currently expanding my expertise in Python and its libraries.<br><br>
- **🌍 Interests:** Enthusiastic about Machine Learning and Artificial Intelligence.<br><br>
- **📊 Current Projects:** Engaged in data cleaning, visualization, and applying statistical measures to convert raw data into actionable insights.<br><br>
- **🎯 Goals:**<br> **Short-term Goal:** Complete my thesis and obtain my software engineering degree. Finish my training and secure a data analyst position to gain practical experience.<br> **Long-term Goal:** Establish a solid foundation in data analysis and advance toward a career in data science.
+**🌟 Current Focus:** I am deeply immersed in data analysis and visualization, building a robust foundation as I transition towards data science.<br><br>
+**🛠️ Skills:** Proficient in Excel, Google Sheets, and SQL. Currently expanding my expertise in Python and its libraries.<br><br>
+**🌍 Interests:** Enthusiastic about Machine Learning and Artificial Intelligence.<br><br>
+**📊 Current Projects:** Engaged in data cleaning, visualization, and applying statistical measures to convert raw data into actionable insights.<br><br>
+**🎯 Goals:**<br> **Short-term Goal:** Complete my thesis and obtain my software engineering degree. Finish my training and secure a data analyst position to gain practical experience.<br> **Long-term Goal:** Establish a solid foundation in data analysis and advance toward a career in data science.
 
 <h3 align="right">Connect with Me</h3>
 <p align="right">
@@ -87,12 +86,11 @@
 
 ## 📊 GitHub Stats & Top Contributed Repo
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgeayad0577&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeayad0577&theme=blue-green&hide_border=true" alt="Streak Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeayad0577&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=georgeayad0577&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WickyAnalysis&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WickyAnalysis&theme=blue-green&hide_border=true" alt="Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WickyAnalysis&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=WickyAnalysis&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400"/>
 </div>
-
 
 ---
 
