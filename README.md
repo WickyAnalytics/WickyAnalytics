@@ -92,8 +92,5 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=WickyAnalytics&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400"/>
 </div>
 </details>
+
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
