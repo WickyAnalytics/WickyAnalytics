@@ -86,12 +86,13 @@
 
 ## 📊 GitHub Stats & Top Contributed Repo
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WickyAnalysis&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WickyAnalysis&theme=blue-green&hide_border=true" alt="Streak Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WickyAnalysis&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=WickyAnalysis&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WickyAnalytics&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WickyAnalytics&theme=blue-green&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WickyAnalytics&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=WickyAnalytics&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400"/>
 </div>
-
 ---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
